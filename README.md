@@ -29,7 +29,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [GitHub](https://github.com/M0hamedMagdy/blog-preview-card-codux)
-- Live Site URL: [GitHub Pages](blog-preview-card-codux.vercel.app)
+- Live Site URL: [Vercel](blog-preview-card-codux.vercel.app)
 
 ## My process
 
