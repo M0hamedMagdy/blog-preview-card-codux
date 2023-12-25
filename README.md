@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [GitHub](https://github.com/M0hamedMagdy/frontendmentor/tree/main/blog-preview-card)
-- Live Site URL: [GitHub Pages](https://m0hamedmagdy.github.io/frontendmentor/blog-preview-card/)
+- Solution URL: [GitHub](https://github.com/M0hamedMagdy/blog-preview-card-codux)
+- Live Site URL: [GitHub Pages](blog-preview-card-codux.vercel.app)
 
 ## My process
 
