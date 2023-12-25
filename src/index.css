@@ -29,13 +29,18 @@ Adding Font from assets/fonts
 }
 
 body {
-  margin: 0;
   display: flex;
-  place-items: center;
+  align-items: center;
   justify-content: center;
   width: 100%;
   height: 100vh;
   font-family: 'Figtree', system-ui, Avenir, Helvetica, Arial, sans-serif;
   line-height: 1.5;
   font-weight: 400;
+}
+
+@media screen and (max-width: 425px) {
+  body {
+    padding: 10px;
+  }
 }
