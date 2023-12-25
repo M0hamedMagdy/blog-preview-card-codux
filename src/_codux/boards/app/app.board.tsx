@@ -1,7 +1,11 @@
 import { createBoard } from '@wixc3/react-board';
-import App from '../../../App';
+import App from '../../../Card';
 
 export default createBoard({
-    name: 'App',
+    name: 'Card',
     Board: () => <App />,
+    environmentProps: {
+        windowWidth: 1440
+    },
+    isSnippet: true
 });

@@ -1,0 +1,67 @@
+.card {
+  background-color: #ffffff;
+  height: 520px;
+  width: 350px;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-items: center;
+  overflow: hidden;
+  padding: 20px;
+  gap: 10px;
+  border: 1px solid black;
+  border-radius: 25px;
+  box-shadow: 7.07px 7.07px 1px black;
+}
+
+.img {
+  width: 350px;
+  border-radius: 20px;
+}
+
+.h4 {
+  align-self: start;
+  font-weight: 600;
+  text-align: start;
+  margin: 0;
+}
+
+.h1 {
+  font-size: 24px;
+  font-weight: 800;
+  text-align: start;
+  align-self: start;
+  margin: 0;
+}
+
+.h1:hover {
+  color: hsl(47, 88%, 63%);
+  cursor: pointer;
+}
+
+.p {
+  font-weight: 600;
+  line-height: 1.5;
+  font-size: 16px;
+  color: hsl(0, 0%, 50%);
+}
+
+.autherImg {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  margin-right: 10px;
+}
+
+.autherName {
+  font-weight: 800;
+  font-size: 16px;
+  color: hsl(0, 0%, 7%);
+}
+
+.autherCard {
+  display: flex;
+  align-items: center;
+  align-self: flex-start;
+}

@@ -1,33 +1,48 @@
-<div align="center">  
-    <img height="50" src="./src/assets/codux.svg">  
-    <h1><img height="30" src="./src/assets/vite.svg"> Vite template for Codux</h1>
-</div>
+# Frontend Mentor - Blog Preview Card
 
-### A Visual IDE for React Projects
+This is a solution to the [Order summary card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
-Codux is an all-in-one visual development environment. Whether you’re starting a new app, creating components, or editing an existing project, every visual change you make reflects instantly in the code and vice versa. To learn more about Codux, visit our website - [https://www.codux.com/](https://www.codux.com/)
+## Table of contents
 
-This project was bootstrapped with [`Vite`](https://vitejs.dev).
+- [Overview](#overview)
+  - [The challenge](#the-challenge)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+  - [What I learned](#what-i-learned)
+- [Author](#author)
 
-It includes a single React component to start your project with, a sample [`codux.config.json`](codux.config.json) with preconfigured keys, a `package.json` file to describe the project's packages and dependencies, and a folder and component structure to put everything neatly in its place.
+**Note: Delete this note and update the table of contents based on what sections you keep.**
 
-- Edit, render and compose apps that make use of **`React`**-based components.
-- Create components with **`TypeScript`**, **`SCSS`** and **`CSS Modules`** support.
-- Visually edit in real-time and in an isolated environment.
+## Overview
 
-### Available Scripts
+### The challenge
 
-In the project directory, you can run:
+Users should be able to:
 
-### `npm run build`
+- See hover states for interactive elements
 
-Build the application in production mode into a folder named `dist`. This folder can be served using any HTTP server.
+### Screenshot
 
-### `npm run dev`
+![](./screenshot.png)
 
-Start dev server, aliases: `vite dev`, `vite serve`.\
-Open [http://127.0.0.1:5173/](http://127.0.0.1:5173/) to view it in the browser.
+### Links
 
-### `npm run preview`
+- Solution URL: [GitHub](https://github.com/M0hamedMagdy/frontendmentor/tree/main/blog-preview-card)
+- Live Site URL: [GitHub Pages](https://m0hamedmagdy.github.io/frontendmentor/blog-preview-card/)
 
-Boots up a local static web server that serves the files from dist at [`http://localhost:4173`](http://localhost:4173) . It's an easy way to check if the production build looks OK in your local environment.
+## My process
+
+### Built with
+
+- Codux
+- SASS / SCSS
+- React
+
+
+## Author
+
+- Frontend Mentor - [@m0hamedmagdy](https://www.frontendmentor.io/profile/m0hamedmagdy)
+- Twitter - [@imohameds2](https://www.twitter.com/imohameds2)
+
